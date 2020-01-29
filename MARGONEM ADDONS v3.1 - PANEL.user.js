@@ -213,7 +213,7 @@
         },
         "Wiedźmy dookoła": {
             map: "Tristam, Potępione Zamczysko, Plugawe Pustkowie, Jęczywąwóz, Pogranicze Wisielców, Jęczywąwóz, Plugawe Pustkowie, Zachodnie Zbocze",
-            mobs: "Kąsająca Grymaśnica, Raszpla Ragana, Obwisła Prukwa, Zadzierzgnięta Haniebnica, Odchodnica Cesarska, Ścierwica Mięsówka, Dokuczliwa Bździągwa, Rogata Rozkosznica, Złośliwa Sekutnica",
+            mobs: "Kapryśnica Gorejąca, Kąsająca Grymaśnica, Raszpla Ragana, Obwisła Prukwa, Zadzierzgnięta Haniebnica, Odchodnica Cesarska, Ścierwica Mięsówka, Dokuczliwa Bździągwa, Rogata Rozkosznica, Złośliwa Sekutnica",
             mobs_id: [154305, 154363],
             ignore_mob: []
         },
